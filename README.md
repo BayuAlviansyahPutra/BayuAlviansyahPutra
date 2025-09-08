@@ -1,4 +1,8 @@
-## Hi there My Name Is Bayu 👋
+## Bayu Alviansyah Putra is Here!! 👋
+
+### Game Developer, InsyaAllah!!
+
+![Istri dan Abang](/img/Jinshi%20X%20gojo.jpeg)
 
 <!--
 **BayuAlviansyahPutra/BayuAlviansyahPutra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I’m currently learning **Unit 3D**
+- I’m currently learning **C#**
+- I’m currently learning **3D Model**
